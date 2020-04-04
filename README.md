@@ -1,4 +1,4 @@
-flutter-neumorphic is a 100% free Flutter open-source repository built with <a href="https://flutter.dev/" target="_blank">Flutter SDK</a> to make Flutter development easier and more joyful than ever. Neumorphism is about the minimalist design giving it a realistic touch. This repository contains some basic shapes and widgets in neumorrphism.
+flutter-neumorphic is a 100% free Flutter open-source repository built with <a href="https://flutter.dev/" target="_blank">Flutter SDK</a> to make Flutter development easier and more joyful than ever. Neumorphism is about the minimalist design giving it a realistic touch. This repository contains some basic shapes and widgets in neumorphism.
 
 ## Inspired from I don't know... Maybe from some pages I follow from my Instagram
 
@@ -19,13 +19,13 @@ flutter-neumorphic is a 100% free Flutter open-source repository built with <a h
 
 ## Collection of Simple Neomorphic Shapes
 
-[flutter-neumorphic](https://github.com/SinghTanisha16/flutter-neomorphic)
+[flutter-neumorphic](https://github.com/SinghTanisha16/flutter-neumorphic)
 
 ## Contributing
 
 flutter-neumorphic is **100% free** and **open source**. We encourage and support an active, healthy community that accepts contributions from the public &ndash; including you. There are a couple of ways in which you can contribute to the growing community of `flutter-neumorphic`.
 
-- Pick up any [issue](https://github.com/SinghTanisha16/flutter-neomorphic/issues)
+- Pick up any [issue](https://github.com/SinghTanisha16/flutter-neumorphic/issues)
 - Fix a bug
 - Write and improve some **documentation**. Documentation is very critical to us. We would appreciate help in adding multiple languages to our docs.
 - If you are a developer, feel free to check out the source and submit pull requests.
