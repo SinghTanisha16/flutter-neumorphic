@@ -13,7 +13,7 @@ flutter-neomorphic is a 100% free Flutter open-source repository built with <a h
 
 [tanishacodes](https://instagram.com/tanishacodes)
 
-## facebook Account
+## Facebook Account
 
 [Tanisha Singh](https://www.facebook.com/profile.php?id=100044480823812)
 
