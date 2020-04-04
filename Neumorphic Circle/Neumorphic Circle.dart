@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
 void main() => runApp(MaterialApp(
-  home: Neomorphic_Circle(),
+  home: Neumorphic_Circle(),
 ));
 
-class Neomorphic_Circle extends StatelessWidget {
+class Neumorphic_Circle extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
