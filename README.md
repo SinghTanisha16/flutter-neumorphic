@@ -1,4 +1,4 @@
-flutter-neomorphic is a 100% free Flutter open-source repository built with <a href="https://flutter.dev/" target="_blank">Flutter SDK</a> to make Flutter development easier and more joyful than ever. Nomorphism is about the minimalist design giving it a realistic touch. This repository contains some basic shapes and widgets in neomorrphism.
+flutter-neumorphic is a 100% free Flutter open-source repository built with <a href="https://flutter.dev/" target="_blank">Flutter SDK</a> to make Flutter development easier and more joyful than ever. Neumorphism is about the minimalist design giving it a realistic touch. This repository contains some basic shapes and widgets in neumorrphism.
 
 ## Inspired from I don't know... Maybe from some pages I follow from my Instagram
 
@@ -19,11 +19,11 @@ flutter-neomorphic is a 100% free Flutter open-source repository built with <a h
 
 ## Collection of Simple Neomorphic Shapes
 
-[flutter-neomorphic](https://github.com/SinghTanisha16/flutter-neomorphic)
+[flutter-neumorphic](https://github.com/SinghTanisha16/flutter-neomorphic)
 
 ## Contributing
 
-flutter-neomorphic is **100% free** and **open source**. We encourage and support an active, healthy community that accepts contributions from the public &ndash; including you. There are a couple of ways in which you can contribute to the growing community of `flutter-neomorphic`.
+flutter-neumorphic is **100% free** and **open source**. We encourage and support an active, healthy community that accepts contributions from the public &ndash; including you. There are a couple of ways in which you can contribute to the growing community of `flutter-neumorphic`.
 
 - Pick up any [issue](https://github.com/SinghTanisha16/flutter-neomorphic/issues)
 - Fix a bug
@@ -53,7 +53,7 @@ Passionate #Flutter, #Android Developer. #Programmer
 >
 > - <b>My UPI id:</b> singhtanisha16@paytm
 
-### Note: flutter-neomorphic is not directly and/or indirectly associated/affiliated with Flutter or Google LLC.
+### Note: flutter-neumorphic is not directly and/or indirectly associated/affiliated with Flutter or Google LLC.
 
 ## Copyright-and-license
 
