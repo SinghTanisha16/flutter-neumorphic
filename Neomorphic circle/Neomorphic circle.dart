@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
 
-class Safe extends StatelessWidget {
+void main() => runApp(MaterialApp(
+  home: Neomorphic-Circle(),
+));
+
+class Neomorphic-Circle extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
