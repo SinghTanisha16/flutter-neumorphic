@@ -54,7 +54,6 @@ Passionate #Flutter, #Android Developer. #Programmer
 
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
 >
-> - <b>My UPI id:</b> singhtanisha16@paytm
 
 ### Note: flutter-neumorphic is not directly and/or indirectly associated/affiliated with Flutter or Google LLC.
 
